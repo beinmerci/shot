@@ -1,4 +1,4 @@
-# spot check on multiclass classification algorithms using scoring parameter(GridSearchCV)
+# spot check on multiclass classification algorithms using scoring parameter(cross_validate)
 Data: MNIST Data https://www.kaggle.com/c/digit-recognizer/data
 
 Problem Type : Identify which algorithms are best suited for current dataset for multiclass classification
